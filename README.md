@@ -58,7 +58,11 @@ Adicionada alterações ao _stage_ com os comandos da etapa 6.
 > git add .  
 > git commit -m "merge update readme branch into main"
 
-
+### Etapa 12
+Incluída as alterações no repositório remoto com os comandos:
+> git add .  
+> git commit -m "add 'etapa 12' update remote repo"
+> git push
 
 
 
