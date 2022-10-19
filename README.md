@@ -45,6 +45,21 @@ Repetida a etapa 6 com os comandos:
 >git push -u origin feat/start-readme
 
 
+### Etapa 9
+Alterada área de trabalho para _main_ com o comando:
+> git checkout main
+
+### Etapa 10
+Incluída a _branch_ 'feat/start-readme' na _main_ com o comando:
+> git merge feat/start-readme
+
+### Etapa 11
+Adicionada alterações ao _stage_ com os comandos da etapa 6.
+> git add .  
+> git commit -m "merge update readme branch into main"
+
+
+
 
 
 
